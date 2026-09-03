@@ -14,7 +14,12 @@ Este scraper está programado especificamente para leer los datos de books.toscr
 
 ### Requisitos de ejecución
 
-Como requisito primordial, se necesita utilizar Python 3.10+.
+Como requisito primordial, se necesita utilizar Python 3.10+. Ademas, es necesario tener instaladas estas librerias de python:
+
+- requests
+- beautifulsoup4
+- pandas
+- openpyxl
 
 ### Como usarlo
 
